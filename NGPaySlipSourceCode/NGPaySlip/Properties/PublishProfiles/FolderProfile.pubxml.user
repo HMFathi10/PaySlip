@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\Releases\NGPaySlipPublish</_PublishTargetUrl>
-    <History>True|2024-03-10T12:40:10.3782288Z;True|2024-03-10T14:20:46.5588067+02:00;</History>
+    <History>True|2024-03-11T07:57:36.4955156Z;False|2024-03-11T09:57:11.0453246+02:00;True|2024-03-10T14:40:10.3782288+02:00;True|2024-03-10T14:20:46.5588067+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
