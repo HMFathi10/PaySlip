@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Raya\\PaySlipClone\\NGPaySlip\\NGPaySlip\\NGPaySlip.csproj": {}
+    "D:\\APPS\\NGPaySlip\\NGPaySlipSourceCode\\NGPaySlip\\NGPaySlip.csproj": {}
   },
   "projects": {
-    "D:\\Raya\\PaySlipClone\\NGPaySlip\\NGPaySlip\\NGPaySlip.csproj": {
+    "D:\\APPS\\NGPaySlip\\NGPaySlipSourceCode\\NGPaySlip\\NGPaySlip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Raya\\PaySlipClone\\NGPaySlip\\NGPaySlip\\NGPaySlip.csproj",
+        "projectUniqueName": "D:\\APPS\\NGPaySlip\\NGPaySlipSourceCode\\NGPaySlip\\NGPaySlip.csproj",
         "projectName": "NGPaySlip",
-        "projectPath": "D:\\Raya\\PaySlipClone\\NGPaySlip\\NGPaySlip\\NGPaySlip.csproj",
-        "packagesPath": "C:\\Users\\hossam_fathy\\.nuget\\packages\\",
-        "outputPath": "D:\\Raya\\PaySlipClone\\NGPaySlip\\NGPaySlip\\obj\\",
+        "projectPath": "D:\\APPS\\NGPaySlip\\NGPaySlipSourceCode\\NGPaySlip\\NGPaySlip.csproj",
+        "packagesPath": "C:\\Users\\ezzat_ahmed\\.nuget\\packages\\",
+        "outputPath": "D:\\APPS\\NGPaySlip\\NGPaySlipSourceCode\\NGPaySlip\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hossam_fathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ezzat_ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NGPaySlip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d165871b67af8b735e1df7d07606e973c56ac9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NGPaySlip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NGPaySlip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
